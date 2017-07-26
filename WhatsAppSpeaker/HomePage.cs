@@ -19,7 +19,6 @@ namespace WhatsAppSpeaker
 				Command = new Command(() =>
 				{
                     var text = entry1.Text;
-
 					CrossTextToSpeech.Current.Speak(text);
 				})
 			};
