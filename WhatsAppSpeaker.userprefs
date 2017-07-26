@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8F46D6D8-E627-4AC1-9344-F6A13B53BD55}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhatsAppSpeaker/WhatsAppSpeaker.cs">
+    <Files>
+      <File FileName="WhatsAppSpeaker/HomePage.cs" Line="1" Column="1" />
+      <File FileName="WhatsAppSpeaker/WhatsAppSpeaker.cs" Line="12" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WhatsAppSpeaker.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FE896A7C-CE23-4BF7-A504-4A73530C490F" />
+  <MultiItemStartupConfigurations />
+</Properties>
