@@ -11,6 +11,7 @@ using Android.OS;
 namespace WhatsAppSpeaker.Droid
 {
     [Activity(Label = "WhatsAppSpeaker.Droid", Icon = "@drawable/icon", Theme = "@style/MyTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+    [IntentFilter(new[] { "android.service.notification.NotificationListenerService" })]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
         protected override void OnCreate(Bundle bundle)
